@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AshutoshS12
-- 👀 I’m interested in 
-M<>`
+- 👀 I’m interested in ..
 - 🌱 I’m currently learning DevOps,Python.
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
